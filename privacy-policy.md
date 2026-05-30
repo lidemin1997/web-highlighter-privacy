@@ -1,95 +1,95 @@
-# Privacy Policy
+# 隐私政策
 
 **Web Highlighter - 网页高亮笔记插件**
 
-**Last Updated:** May 30, 2026
+**最后更新时间：** 2026年5月30日
 
 ---
 
-## 1. Information We Collect
+## 1. 我们收集的信息
 
-Web Highlighter only collects and stores data **locally on your device** using `chrome.storage.local`. We do not collect, transmit, or store any data on external servers.
+Web Highlighter 仅在您的设备本地存储数据，使用浏览器的 `chrome.storage.local` API。我们不会向任何外部服务器传输或存储任何数据。
 
-### Data Stored Locally:
-- **Highlighted text content** – The text you select and highlight on web pages
-- **Notes/annotations** – Optional notes you add to highlights
-- **Highlight color preferences** – Your selected highlight colors
-- **URL information** – The webpage URL where highlights were created (for organizing highlights by page)
+### 本地存储的数据：
+- **高亮文本内容** – 您在网页上选中并高亮的文字
+- **备注/注释** – 您为高亮添加的备注
+- **高亮颜色偏好** – 您选择的高亮颜色
+- **网页地址信息** – 创建高亮的网页URL（用于按页面整理高亮）
 
-### What We Do NOT Collect:
-- ❌ Personal identification information (name, email, address)
-- ❌ Account credentials or passwords
-- ❌ Browsing history or usage analytics
-- ❌ Cookies or tracking mechanisms
-- ❌ Any data transmitted to external servers
-
----
-
-## 2. How We Use Your Information
-
-All data is stored **exclusively on your local device** and is used solely for:
-- Displaying your highlights when you revisit web pages
-- Organizing and managing your notes
-- Exporting your highlights (via the export feature in the popup)
+### 我们不收集的信息：
+- ❌ 个人身份信息（姓名、邮箱、地址）
+- ❌ 账号凭证或密码
+- ❌ 浏览历史或使用分析数据
+- ❌ Cookie 或追踪机制
+- ❌ 任何传输到外部服务器的数据
 
 ---
 
-## 3. Data Storage & Security
+## 2. 信息使用方式
 
-- Data is stored using the browser's `chrome.storage.local` API
-- No data leaves your browser or device
-- No third-party services have access to your data
-- If you uninstall the extension, all stored data is automatically deleted from your device
-- We use no cookies, trackers, or analytics tools
-
----
-
-## 4. Third-Party Services
-
-### Pro Version (Optional):
-If you choose to upgrade to the Pro version:
-- Payment processing is handled by **Patreon** (patreon.com)
-- Patreon's own privacy policy applies to payment transactions: https://www.patreon.com/privacy
-- We do not receive or store any payment details through our extension
-
-### No Other Third Parties:
-We do not use:
-- Analytics services (Google Analytics, etc.)
-- Advertising networks
-- Social media widgets
-- Any other third-party data processors
+所有数据**仅存储在您的本地设备**上，仅用于：
+- 当您重新访问网页时显示您的高亮
+- 整理和管理您的笔记
+- 导出您的高亮内容（通过弹出窗口中的导出功能）
 
 ---
 
-## 5. Children's Privacy
+## 3. 数据存储与安全
 
-This extension is not directed at children under the age of 13. We do not knowingly collect personal information from children.
-
----
-
-## 6. Your Rights
-
-Since all data is stored locally on your device, you have full control:
-
-- ✅ **View** your data anytime via the extension popup
-- ✅ **Export** your highlights at any time
-- ✅ **Delete** individual highlights or clear all data via the popup
-- ✅ **Uninstall** the extension to completely remove all data
+- 数据通过浏览器的 `chrome.storage.local` API 存储
+- 数据不会离开您的浏览器或设备
+- 任何第三方服务都无法访问您的数据
+- 如果您卸载此扩展程序，所有存储的数据将自动从设备中删除
+- 我们不使用 Cookie、追踪器或分析工具
 
 ---
 
-## 7. Changes to This Policy
+## 4. 第三方服务
 
-We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
+### 专业版（可选）：
+如果您选择升级到专业版：
+- 付款处理由 **Patreon** 负责
+- 付款交易适用 Patreon 自身的隐私政策：https://www.patreon.com/privacy
+- 我们不接收或存储任何付款详细信息
+
+### 无其他第三方：
+我们不使用以下任何服务：
+- 分析服务（Google Analytics 等）
+- 广告网络
+- 社交媒体组件
+- 其他第三方数据处理商
 
 ---
 
-## 8. Contact Us
+## 5. 儿童隐私
 
-If you have questions about this privacy policy, please contact us:
+本扩展程序不面向13岁以下的儿童。我们不会故意收集儿童的个人信息。
+
+---
+
+## 6. 您的权利
+
+由于所有数据都存储在您的本地设备上，您拥有完全控制权：
+
+- ✅ **查看** 您的数据（随时通过扩展弹出窗口）
+- ✅ **导出** 您的高亮（随时导出）
+- ✅ **删除** 单个高亮或清除所有数据（通过弹出窗口）
+- ✅ **卸载** 扩展程序以完全删除所有数据
+
+---
+
+## 7. 政策变更
+
+我们可能会不时更新本隐私政策。任何变更都将在此页面发布，并更新「最后更新时间」。
+
+---
+
+## 8. 联系我们
+
+如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
 - **GitHub Issues:** https://github.com/lidemin1997/web-highlighter-privacy/issues
 
 ---
 
-*This privacy policy applies to the Web Highlighter browser extension only.*
+*本隐私政策仅适用于 Web Highlighter 浏览器扩展程序。*
