@@ -48,8 +48,8 @@ Web Highlighter 仅在您的设备本地存储数据，使用浏览器的 `chrom
 
 ### 专业版（可选）：
 如果您选择升级到专业版：
-- 付款处理由 **Patreon** 负责
-- 付款交易适用 Patreon 自身的隐私政策：https://www.patreon.com/privacy
+- 付款处理由 **爱发电（afdian）** 负责
+- 付款交易适用爱发电自身的服务条款：https://afdian.com/p/about
 - 我们不接收或存储任何付款详细信息
 
 ### 无其他第三方：
